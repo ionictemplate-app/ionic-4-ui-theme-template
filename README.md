@@ -1,5 +1,5 @@
 # ionic-4-ui-theme-template
-Deep Blue Ionic 4 / Angular 8 UI Theme / Template / Starter App 
+High Flight | Ionic 4 UI Theme / Template App | Starter App
 <p>
     <a href="http://bit.ly/2sLLMeI" target="_blank">
         <img src="https://i.ibb.co/tBZ9p2t/high-flight-qrcodeandroid.jpg"
